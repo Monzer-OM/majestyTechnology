@@ -20,12 +20,12 @@ body {
   
   /* Header styles */
   .header {
-    padding: 20px;
+    padding-top: 30px;
     text-align: center;
   }
   
   .header img {
-    width: 150px;
+    width: 400px;
     height: auto;
   }
   
